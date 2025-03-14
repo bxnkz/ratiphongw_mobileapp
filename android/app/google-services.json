@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134253270316",
+    "project_id": "ratiphong-90c80",
+    "storage_bucket": "ratiphong-90c80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134253270316:android:7dd218efa1f3328c360889",
+        "android_client_info": {
+          "package_name": "om.example.firebase_mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEF4nO5FxK21wOJFTxbBC8tMZ_zQk-cLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
